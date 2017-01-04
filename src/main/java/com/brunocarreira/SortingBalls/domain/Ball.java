@@ -1,4 +1,4 @@
-package com.brunocarreira.SortingBalls;
+package com.brunocarreira.SortingBalls.domain;
 
 public class Ball {
 
