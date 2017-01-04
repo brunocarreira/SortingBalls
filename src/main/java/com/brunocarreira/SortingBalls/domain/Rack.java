@@ -1,8 +1,6 @@
-package com.brunocarreira.SortingBalls;
+package com.brunocarreira.SortingBalls.domain;
 import java.util.ArrayList;
 import java.util.List;
-
-import com.brunocarreira.SortingBalls.domain.Ball;
 
 /**
  * Class responsible for keeping a list of sorted balls in ascending order and print them 

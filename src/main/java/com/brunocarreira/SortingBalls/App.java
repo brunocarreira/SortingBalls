@@ -1,8 +1,9 @@
-package com.brunocarreira.SortingBalls.domain;
+package com.brunocarreira.SortingBalls;
 
 import java.util.Scanner;
 
-import com.brunocarreira.SortingBalls.Rack;
+import com.brunocarreira.SortingBalls.domain.Ball;
+import com.brunocarreira.SortingBalls.domain.Rack;
 
 /**
  * Main method with a console to request the amount of drawn numbers and each number

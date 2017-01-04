@@ -1,6 +1,7 @@
 package com.brunocarreira.SortingBalls;
 
 import com.brunocarreira.SortingBalls.domain.Ball;
+import com.brunocarreira.SortingBalls.domain.Rack;
 
 import junit.framework.TestCase;
 
